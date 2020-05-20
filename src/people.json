@@ -1,0 +1,25 @@
+{ "people": 
+    [
+        {
+            "name": "Jim Andersson",
+            "position": "Accountant",
+            "phoneNr": "666-666 66 66",
+            "email": "jim.andersson@mailservice.com",
+            "id": 1
+        },
+        {
+            "name": "Tim Thomson",
+            "position": "Producer",
+            "phoneNr": "777-777 77 77",
+            "email": "tim.thomson@mailservice.com",
+            "id": 2
+        },
+        {
+            "name": "John Smith",
+            "position": "Janitor",
+            "phoneNr": "555-555 55 55",
+            "email": "john.smithn@mailservice.com",
+            "id": 3
+        }
+    ]
+}
